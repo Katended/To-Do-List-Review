@@ -43,7 +43,6 @@ textarea {
   font-size: 15px;
   width: 15px;
   vertical-align: middle;
-  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -51,7 +50,6 @@ textarea {
 }
 
 .write-task {
-  display: flex;
   justify-content: space-between;
   border-top: 1px solid gainsboro;
   height: 50px;
