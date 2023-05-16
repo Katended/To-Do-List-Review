@@ -42,16 +42,14 @@ textarea {
 .icon-font {
   font-size: 15px;
   width: 15px;
-  vertical-align: middle;
-  display: flex;
+  vertical-align: middle; 
   flex-direction: column;
   justify-content: center;
   align-items: center;
   padding-top: 1.3em;
 }
 
-.write-task {
-  display: flex;
+.write-task { 
   justify-content: space-between;
   border-top: 1px solid gainsboro;
   height: 50px;
